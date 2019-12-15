@@ -50,7 +50,7 @@ class LinebotController < ApplicationController
      end
      
      def hello(text)
-         return text + "!!!!!!!!!!!!!1"
+         return text + "!!!!!"
      end
      
      
